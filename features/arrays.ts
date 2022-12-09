@@ -19,3 +19,8 @@ animals.map((animal: string): string => {
   return animal.toUpperCase();
 });
 
+//flexible types
+
+const importantDates: (Date | string)[] = [new Date()];
+importantDates.push('2030-10-10');
+importantDates.push(new Date());
