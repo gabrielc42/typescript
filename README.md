@@ -2,5 +2,5 @@
 
 to run a file:
 ```
-node-ts fileName.ts
+> node-ts fileName.ts
 ```
