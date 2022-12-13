@@ -1,0 +1,11 @@
+10
+78C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\dist\mapAPI.3464ddca.js.map133154246461587623 0
+73C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\dist\index.b71e74eb.js133154247141760958 0
+55C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\dist133154247141812664 1
+61C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\index.html133154246798411842 0
+77C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\dist\index.b71e74eb.js.map133154247141801537 0
+54C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\src133154248689471343 1
+66C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\dist\index.html133154247086840659 0
+63C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\src\index.ts133154247140310903 0
+62C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\src\User.ts133154249784308667 0
+74C:\Users\Gabriel\Desktop\reposit\typescript\mapAPI\dist\mapAPI.3464ddca.js133154246461478854 0
